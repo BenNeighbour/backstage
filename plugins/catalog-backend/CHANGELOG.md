@@ -1,5 +1,11 @@
 # @backstage/plugin-catalog-backend
 
+## 0.10.2
+
+### Patch Changes
+
+- 9c63be545: Restructure the next catalog types and files a bit
+
 ## 0.10.1
 
 ### Patch Changes

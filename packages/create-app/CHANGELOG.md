@@ -1,5 +1,12 @@
 # @backstage/create-app
 
+## 0.3.25
+
+### Patch Changes
+
+- Updated dependencies [9c63be545]
+  - @backstage/plugin-catalog-backend@0.10.2
+
 ## 0.3.24
 
 ### Patch Changes
